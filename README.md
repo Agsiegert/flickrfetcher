@@ -1,4 +1,4 @@
-#FlickrFetcher
+# FlickrFetcher
 
 fetch fotos from flickr
 
@@ -10,7 +10,7 @@ fetch fotos from flickr
 
 ```npm install chai```
 
-
+```mocha --reporter=nyan ./*-spec.js```
 
 
 
